@@ -1,11 +1,22 @@
-# BLE Jammer
+# BLE Security Lab
 
-Research-focused BLE interference testing project for local lab experimentation and resilience analysis.
+Educational Bluetooth Low Energy security testing project focused on resilience, detection, and defensive thinking.
 
-## Planned Scope
-- Controlled BLE signal testing in isolated environments
-- Interference pattern analysis
-- Defensive hardening notes and mitigations
+## Project Goal
+Build a safe research environment to study BLE behavior under noisy conditions and document practical hardening ideas.
 
-## Status
-In progress.
+## Scope
+- Observe BLE signal behavior in controlled local tests
+- Analyze interference patterns and connection stability
+- Document mitigation techniques for real deployments
+
+## Safety and Ethics
+This project is for authorized testing in controlled environments only.
+
+## Tech and Tools
+- BLE-capable test hardware
+- Linux tooling and packet analysis workflows
+- Structured test notes and result logs
+
+## Current Status
+In progress. New experiments and results will be added continuously.
